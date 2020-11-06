@@ -1,5 +1,7 @@
 {
   "name": "UPC News",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
